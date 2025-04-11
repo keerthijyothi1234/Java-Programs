@@ -1,0 +1,23 @@
+//For loop 
+when we know the no of iterations we go for For Loop
+for(initialisation;conditin;incr/decr)*/
+//stmts
+
+
+break:
+to exit from loop break can be used
+
+contiue:
+to skip the current iteration and continue with next.
+
+Inheritance:
+Acquirig the properties of super class to derived class.
+we use extends keyword
+types
+single inheritance:  
+1 superclass 2.child class
+class Vehicle
+{
+class bike extends Vehicle{
+}
+}
